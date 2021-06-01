@@ -21,12 +21,6 @@
 <!--typescript-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="type script" height="40" style="vertical-align:top; margin:4px">
 
-<!--python-->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-
-<!--go-->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="golang" height="40" style="vertical-align:top; margin:4px">
-
 <!--dart-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" alt="dart" height="40" style="vertical-align:top; margin:4px">
 
@@ -40,7 +34,6 @@
 <!--framework-->
 <!--vue-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="vue" height="40" style="vertical-align:top; margin:4px">
-
 
 <!--react-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="react" height="40" style="vertical-align:top; margin:4px">
@@ -81,9 +74,6 @@
 <!--vagrant-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png" alt="vagrant" height="40" style="vertical-align:top; margin:4px">
 
-<!--vim-->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="vim" height="40" style="vertical-align:top; margin:4px">
-
 <!--windows-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="windows" height="40" style="vertical-align:top; margin:4px">
 
@@ -99,9 +89,6 @@
 
 <!--json-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="json" height="40" style="vertical-align:top; margin:4px">
-
-<!--graphql-->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="graphql" height="40" style="vertical-align:top; margin:4px">
 
 <!--git-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
@@ -124,9 +111,6 @@
 
 <!--bash-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="bash" height="40" style="vertical-align:top; margin:4px">
-
-<!--atom-->
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" alt="atom" height="40" style="vertical-align:top; margin:4px">
 
 <!--aws-->
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
